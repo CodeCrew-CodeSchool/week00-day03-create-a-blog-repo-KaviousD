@@ -31,4 +31,4 @@ Share a link to your live site below AND with your classmates in slack.
 
 Then, review the sites of your classmates, comment with what you learned from them. Click through to their Github profile pages to "follow" each of your classmates.
 
-Reading Notes URL: ________________________________
+Reading Notes URL: ___________https://sidequests.onrender.com/Blog/2024/KaviousD/Readme/_____________________
